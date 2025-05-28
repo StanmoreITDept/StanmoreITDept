@@ -4,25 +4,42 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanmoreitdept&label=Profile%20views&color=0e75b6&style=flat" alt="stanmoreitdept" /> </p>
 
-- 🔭 I’m currently working on [Student Portfolio Showcase Website](https://github.com/Stanmore-College/student-portfolio-showcase)
+🔭 What students are currently working on [Student Portfolio Showcase Website](https://github.com/Stanmore-College/student-portfolio-showcase)
 
-- 🌱 I’m currently learning **- Frontend Frameworks (CSS, HTML) - Backend Development (Node.js, Django) - Git & Version Control - Cloud Computing (AWS Educate) - Python for Data Analysis & AI**
+🌱 What we learn 
 
-- 👯 I’m looking to collaborate on [Open Source Learning Resources for IT](https://github.com/Stanmore-College/open-learning-resources)
+- **Frontend Frameworks (CSS, HTML)**
+- **Backend Development (Node.js, Django)**
+- **Git & Version Control**
+- **Cloud Computing (AWS Educate)**
+- **Python for Data Analysis & AI**
+- **Networking & Cybersecurity**
 
-- 🤝 I’m looking for help with [Industry Mentorship & Guest Lectures](https://stanmore.ac.uk/employers/)
+👯 We are looking to collaborate on [Open Source Learning Resources for IT](https://github.com/Stanmore-College/open-learning-resources)
 
-- 👨‍💻 All of my projects are available at [https://github.com/StanmoreITDept](https://github.com/StanmoreITDept)
+🤝 we are looking for help with [Industry Mentorship & Guest Lectures](mailto:p.lloh@stanmore.ac.uk)
 
-- 📝 I regularly write articles on [https://medium.com/@stanmorecollegeIT](https://medium.com/@stanmorecollegeIT)
+👨‍💻 All of our projects are available at [https://github.com/StanmoreITDept](https://github.com/StanmoreITDept)
 
-- 💬 Ask me about **- BTEC, Gateway and T Level IT Courses - Building web apps - Creating a professional digital portfolio - Using GitHub in education**
+📝 We regularly write articles on [https://medium.com/@stanmorecollegeIT](https://medium.com/@stanmorecollegeIT)
 
-- 📫 How to reach me **itdepartment@stanmore.ac.uk**
+💬 Ask me about
+- [**BTEC Level 1 IT & Computing**](https://stanmore.ac.uk/courses/it/btec-introductory-certificate-in-vocational-studies/)
+- [**BTEC Level 2 IT & Computing**](https://stanmore.ac.uk/courses/it/btec-first-certificate-in-information-and-creative-technology/)
+- [**BTEC Level 3 IT & Computing**](https://stanmore.ac.uk/courses/it/btec-national-foundation-diploma-in-information-technology/)
+- **Gateway Level 1 award in Cybersecurity**
+- **Gateway Level 3 Diploma in Social Media for E-commerce**
+- **Gateway Level 3 Diploma in Software Development**
+- **Gateway Level 3 Diploma in Networking & Cybersecurity**
+- [**T Level Technical Qualification in Digital Production, Design and Development**](https://stanmore.ac.uk/courses/it/t-level-technical-qualification-in-digital-production-design-and-development/)<br/>
 
-- 📄 Know about my experiences [https://stanmore.ac.uk/courses/it/](https://stanmore.ac.uk/courses/it/)
 
-- ⚡ Fun fact **We turn ideas into digital realities—and yes, even our Wi-Fi jokes get laughs!**
+📫 How to reach me **itdepartment@stanmore.ac.uk**
+
+📄 Know about my experiences [https://stanmore.ac.uk/courses/it/](https://stanmore.ac.uk/courses/it/)
+
+⚡ Fun fact **We turn ideas into digital realities—and yes, even our Wi-Fi jokes get laughs!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
