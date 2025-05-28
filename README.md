@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanmoreitdept&label=Profile%20views&color=0e75b6&style=flat" alt="stanmoreitdept" /> </p>
 
-🔭 What students are currently working on [Student Portfolio Showcase Website](https://github.com/Stanmore-College/student-portfolio-showcase)
+🔭 What students are currently working on [Student Portfolio Showcase Website](https://github.com/StanmoreITDept?tab=repositories)
 
 🌱 What we learn 
 
