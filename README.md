@@ -15,7 +15,7 @@
 - **Python for Data Analysis & AI**
 - **Networking & Cybersecurity**
 
-👯 We are looking to collaborate on [Open Source Learning Resources for IT](https://github.com/Stanmore-College/open-learning-resources)
+👯 We are looking to collaborate on [Open Source Learning Resources for IT](mailto:p.lloh@stanmore.ac.uk)
 
 🤝 we are looking for help with [Industry Mentorship & Guest Lectures](mailto:p.lloh@stanmore.ac.uk)
 
