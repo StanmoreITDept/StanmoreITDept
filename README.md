@@ -1,6 +1,6 @@
 <h1 align="center">This is Stanmore College IT Department</h1>
 <h3 align="center">Empowering learners to develop skills in coding, cybersecurity, digital design, and emerging technologies.</h3>
-<div align="center"><img src=
+<div align="center"><img src="https://github.com/StanmoreITDept/StanmoreITDept/blob/main/ITbanner.png"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanmoreitdept&label=Profile%20views&color=0e75b6&style=flat" alt="stanmoreitdept" /> </p>
 
 - 🔭 I’m currently working on [Student Portfolio Showcase Website](https://github.com/Stanmore-College/student-portfolio-showcase)
